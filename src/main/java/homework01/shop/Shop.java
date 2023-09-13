@@ -32,7 +32,7 @@ public class Shop {
         return getSortedListProducts().get(products.size()-1);
     }
 
-    static List<Product> getShuffleListProducts(List<Product> productList) {
+    public static List<Product> getShuffleListProducts(List<Product> productList) {
         Collections.shuffle((productList));
         return productList;
     }

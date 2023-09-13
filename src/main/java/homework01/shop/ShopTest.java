@@ -1,10 +1,12 @@
 package homework01.shop;
 
+import homework01.shop.Product;
+import homework01.shop.Shop;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import static homework01.shop.Shop.getShuffleListProducts;
 import static org.assertj.core.api.Assertions.*;
 
 public class ShopTest {
@@ -17,7 +19,7 @@ public class ShopTest {
     public static void main(String[] args) {
 
         Shop testShop = new Shop();
-        testShop.setProducts(getShuffleListProducts(getTestListProducts()));
+        testShop.setProducts(Shop.getShuffleListProducts(getTestListProducts()));
 
         //1. Проверить, что магазин хранит верный список продуктов (количество продуктов)
         assertThat(testShop.getProducts()).hasSize(4);
@@ -43,7 +45,7 @@ public class ShopTest {
             System.out.println(product.getTitle() + "-" + product.getCost());
         }
         System.out.println("После пермешивания:");
-        for (Product product : getShuffleListProducts(getTestListProducts())) {
+        for (Product product : Shop.getShuffleListProducts(getTestListProducts())) {
             System.out.println(product.getTitle() + "-" + product.getCost());
         }
         System.out.println("После сортировки:");
