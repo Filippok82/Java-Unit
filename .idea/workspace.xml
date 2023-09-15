@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d71a1a-91ec-47db-8976-e87c56502583" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Test/VehicleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework02/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework02/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/assertj_core_3_23_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/CalculationDiscontTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/hw/CheckingNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/hw/NumberIntervalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Unit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Unit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework01/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework01/calculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework01/shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework01/shop/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework01/shop/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework01/shop/ShopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/libraries/assertj_core_3_23_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Unit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Unit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework01/calculator/CalculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework01/shop/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homework01/shop/Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homework01/shop/ShopTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +63,86 @@
       <recent name="homework01.shop" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VehicleTest">
+  <component name="RunManager" selected="JUnit.NumberIntervalTest">
+    <configuration name="NumberIntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw" />
+      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberIntervalTest.numberIntervalFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw" />
+      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
+      <option name="METHOD_NAME" value="numberIntervalFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberIntervalTest.numberIntervalPositiveEndTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw" />
+      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
+      <option name="METHOD_NAME" value="numberIntervalPositiveEndTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberIntervalTest.numberIntervalPositiveStartTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw" />
+      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
+      <option name="METHOD_NAME" value="numberIntervalPositiveStartTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberIntervalTest.numberIntervalTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw" />
+      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
+      <option name="METHOD_NAME" value="numberIntervalTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Java_Unit" />
       <option name="METHOD_NAME" value="" />
@@ -84,70 +151,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Unit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleTest.parkCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Unit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
-      <option name="METHOD_NAME" value="parkCar" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleTest.testBikeCreatedWithTwoWheels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Unit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
-      <option name="METHOD_NAME" value="testBikeCreatedWithTwoWheels" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleTest.testCarCreatedWithFourWheels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Unit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
-      <option name="METHOD_NAME" value="testCarCreatedWithFourWheels" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleTest.testCarDevelopsSpeedTestDriving" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Unit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
-      <option name="METHOD_NAME" value="testCarDevelopsSpeedTestDriving" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.Unnamed" />
-      <item itemvalue="JUnit.VehicleTest" />
-      <item itemvalue="JUnit.VehicleTest.parkCar" />
-      <item itemvalue="JUnit.VehicleTest.testBikeCreatedWithTwoWheels" />
-      <item itemvalue="JUnit.VehicleTest.testCarCreatedWithFourWheels" />
-      <item itemvalue="JUnit.VehicleTest.testCarDevelopsSpeedTestDriving" />
+      <item itemvalue="JUnit.NumberIntervalTest" />
+      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalFalse" />
+      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveEndTrue" />
+      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveStartTrue" />
+      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalTrue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VehicleTest" />
-        <item itemvalue="JUnit.VehicleTest.parkCar" />
-        <item itemvalue="JUnit.VehicleTest.testCarDevelopsSpeedTestDriving" />
-        <item itemvalue="JUnit.VehicleTest.testBikeCreatedWithTwoWheels" />
-        <item itemvalue="JUnit.VehicleTest.testCarCreatedWithFourWheels" />
+        <item itemvalue="JUnit.NumberIntervalTest" />
+        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveEndTrue" />
+        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveStartTrue" />
+        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalTrue" />
+        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalFalse" />
       </list>
     </recent_temporary>
   </component>
