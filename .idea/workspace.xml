@@ -5,11 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d71a1a-91ec-47db-8976-e87c56502583" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Test/CalculationDiscontTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/hw/CheckingNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/hw/NumberIntervalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/homework04/http/HttpClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework04/http/HttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework04/http/WebService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Unit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Unit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Unit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/Java_Unit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +42,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/Test/homework04/message/NotificationServiceTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,98 +72,109 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/IrinaFil/IdeaProjects/Java_Unit/src/main/java/homework01/test&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/IrinaFil/Downloads/junit-platform-commons-1.9.1.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/IrinaFil/IdeaProjects/Java_Unit/src/main/Test/homework04/book&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/IrinaFil/Downloads/selenium-java-4.12.1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.typerenderers&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\IrinaFil\IdeaProjects\Java_Unit\src\main\java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="homework04.http" />
       <recent name="" />
       <recent name="homework01.shop" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="homework04.book" />
+      <recent name="homework04.http" />
+      <recent name="homework04" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumberIntervalTest">
-    <configuration name="NumberIntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookServiceTest">
+    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Unit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="homework04.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
+      <option name="PACKAGE_NAME" value="homework04.book" />
+      <option name="MAIN_CLASS_NAME" value="homework04.book.BookServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberIntervalTest.numberIntervalFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.bookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Unit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="homework04.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
-      <option name="METHOD_NAME" value="numberIntervalFalse" />
+      <option name="PACKAGE_NAME" value="homework04.book" />
+      <option name="MAIN_CLASS_NAME" value="homework04.book.BookServiceTest" />
+      <option name="METHOD_NAME" value="bookServiceTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberIntervalTest.numberIntervalPositiveEndTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.testFindAllBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Unit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="homework04.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
-      <option name="METHOD_NAME" value="numberIntervalPositiveEndTrue" />
+      <option name="PACKAGE_NAME" value="homework04.book" />
+      <option name="MAIN_CLASS_NAME" value="homework04.book.BookServiceTest" />
+      <option name="METHOD_NAME" value="testFindAllBooks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberIntervalTest.numberIntervalPositiveStartTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.testFindBookByTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Unit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="homework04.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
-      <option name="METHOD_NAME" value="numberIntervalPositiveStartTrue" />
+      <option name="PACKAGE_NAME" value="homework04.book" />
+      <option name="MAIN_CLASS_NAME" value="homework04.book.BookServiceTest" />
+      <option name="METHOD_NAME" value="testFindBookByTitle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberIntervalTest.numberIntervalTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.testServiceBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Unit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw.*" />
+          <option name="PATTERN" value="homework04.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hw" />
-      <option name="MAIN_CLASS_NAME" value="hw.NumberIntervalTest" />
-      <option name="METHOD_NAME" value="numberIntervalTrue" />
+      <option name="PACKAGE_NAME" value="homework04.book" />
+      <option name="MAIN_CLASS_NAME" value="homework04.book.BookServiceTest" />
+      <option name="METHOD_NAME" value="testServiceBook" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,19 +190,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Unnamed" />
-      <item itemvalue="JUnit.NumberIntervalTest" />
-      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalFalse" />
-      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveEndTrue" />
-      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveStartTrue" />
-      <item itemvalue="JUnit.NumberIntervalTest.numberIntervalTrue" />
+      <item itemvalue="JUnit.BookServiceTest.testServiceBook" />
+      <item itemvalue="JUnit.BookServiceTest" />
+      <item itemvalue="JUnit.BookServiceTest.bookServiceTest" />
+      <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
+      <item itemvalue="JUnit.BookServiceTest.testFindBookByTitle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NumberIntervalTest" />
-        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveEndTrue" />
-        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalPositiveStartTrue" />
-        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalTrue" />
-        <item itemvalue="JUnit.NumberIntervalTest.numberIntervalFalse" />
+        <item itemvalue="JUnit.BookServiceTest" />
+        <item itemvalue="JUnit.BookServiceTest.testServiceBook" />
+        <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
+        <item itemvalue="JUnit.BookServiceTest.testFindBookByTitle" />
+        <item itemvalue="JUnit.BookServiceTest.bookServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -179,5 +216,14 @@
       <updated>1694160134131</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Unit$CalculationDiscontTest.ic" NAME="CalculationDiscontTest Coverage Results" MODIFIED="1695059054376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java_Unit$WeatherReporterTest.ic" NAME="WeatherReporterTest Coverage Results" MODIFIED="1695105268832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java_Unit$WeatherReporterTest_weatherServiceTest.ic" NAME="WeatherReporterTest.weatherServiceTest Coverage Results" MODIFIED="1695104248708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
